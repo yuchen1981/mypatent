@@ -1,0 +1,30 @@
+server:
+  port: 8080
+
+spring:
+    datasource:
+        name: sqlserverSource
+        type: com.alibaba.druid.pool.DruidDataSource
+        url: jdbc:sqlserver://127.0.0.1:1433;DatabaseName=Patent_Data
+        username: sa
+        password: 123
+        driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+        initialSize : 5
+        minIdle : 5
+        maxActive: 20
+        maxWait : 60000
+        timeBetweenEvictionRunsMillis : 60000
+        minEvictableIdleTimeMillis : 300000
+        validationQuery : SELECT 'x'
+        testWhileIdle : true
+        testOnBorrow : false
+        testOnReturn : false
+        poolPreparedStatements : true
+        maxPoolPreparedStatementPerConnectionSize : 20
+        filters : stat,wall
+        connectionProperties : druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
+        useGlobalDataSourceStat : true
+
+mybatis:
+  mapper-locations: classpath:mapping/*Mapper.xml
+  type-aliases-package: com.ocean.pojo
