@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--启动项设置为 trace，加载 springboot 启动内部各种详细输出-->
+<Configuration status="trace">
+    <Appenders>
+        <!--添加一个控制台追加器-->
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <!-- 输出格式 详细配置见下文 -->
+            <PatternLayout>
+                <Pattern>[%d] - [%c] - [%highlight{%level}] - [%method] - [%t] - %msg%n</Pattern>
+            </PatternLayout>
+        </Console>
+        <!--添加一个文本追加器，文件位于根目录下，名为log.log-->
+        <File name="File" fileName="log/log.log">
+            <PatternLayout>
+                <pattern>[%-5p] %d %c - %m%n</pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Logger name="com.ocean" level="info" />
+        <!--记录 qg.fangrui.boot 包及其子包 debug 及其以上的记录，并输出到文件中-->
+        <Logger name="com.ocean.controller" level="info">
+            <!-- AppenderRef 可以控制文件输出对象-->
+            <AppenderRef ref="File" />
+        </Logger>
+        <!--根记录全部输出到控制台上-->
+        <Root level="debug">
+            <AppenderRef ref="Console" />
+        </Root>
+    </Loggers>
+</Configuration>
