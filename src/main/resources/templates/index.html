@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/use/second" method="get">
+    <div>
+        <select name="lname">
+            <option th:selected="${d.sharesname=='海越股份'}" th:each="d:${data}" th:value="${d.count}" th:text="${d.sharesname}"></option>
+        </select>
+<input name="list" type="checkbox" th:each="d:${data}" th:text="${d.sharesname}" th:value="${d.count}">
+<button type="submit" th:text="提交"></button>
+    </div>
+</form>
+
+</body>
+</html>
