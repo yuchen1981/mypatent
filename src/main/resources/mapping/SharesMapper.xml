@@ -40,11 +40,6 @@
     <result column="Dates" jdbcType="VARCHAR" property="dates" />
     <result column="Times" jdbcType="VARCHAR" property="times" />
   </resultMap>
-  <resultMap id="shownumMap" type="com.ocean.pojo.Shares">
-    <result column="SharesCode" jdbcType="VARCHAR" property="sharescode" />
-    <result column="SharesName" jdbcType="VARCHAR" property="sharesname" />
-    <result column="CurrentPrice" jdbcType="DOUBLE" property="currentprice" />
-  </resultMap>
   <insert id="insert" parameterType="com.ocean.pojo.Shares">
     <!--
       WARNING - @mbggenerated
@@ -284,11 +279,18 @@
       </if>
     </trim>
   </insert>
+  <resultMap id="shownumMap" type="com.ocean.pojo.Shares">
+    <result column="SharesCode" jdbcType="VARCHAR" property="sharescode" />
+    <result column="SharesName" jdbcType="VARCHAR" property="sharesname" />
+    <result column="CurrentPrice" jdbcType="DOUBLE" property="currentprice" />
+  </resultMap>
   <select id="findShares" resultType="com.ocean.pojo.Shares">
     select top 10 * from sharesinfo
   </select>
-  <select id="sharestop" statementType="STATEMENT" resultType="hashmap" parameterType="int">
+  <select id="sharestop" parameterType="int" resultMap="BaseResultMap">
      select top ${top}  sharescode,sharesname,currentprice from sharesinfo
   </select>
-
+<select id="showshnum" resultType="hashmap">
+  select  sharescode,sharesname,count(sharesname) as count from sharesinfo where 1=1 group by sharesname,sharescode
+</select>
 </mapper>

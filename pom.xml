@@ -7,7 +7,7 @@
 	<artifactId>mypatent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
 
 	<name>mypatent</name>
 	<description>Demo project for Spring Boot</description>
@@ -18,25 +18,46 @@
 		<version>2.0.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-
+    <modules><module>zkcopo</module></modules>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
+		<!--修改Language level-->
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<!--修改Java Compiler-->
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
-
+	<distributionManagement>
+		<repository>
+			<id>releases</id>
+			<name>Releases</name>
+			<url>http://192.168.18.131:8081/repository/maven-releases/</url>
+		</repository>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<name>Snapshot</name>
+			<url>http://192.168.18.131:8081/repository/maven-snapshots/</url>
+		</snapshotRepository>
+	</distributionManagement>
 	<dependencies>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-jdbc</artifactId>
-
 		</dependency>
-
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-batch</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<optional>true</optional>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -61,6 +82,11 @@
 			<groupId>com.microsoft.sqlserver</groupId>
 			<artifactId>mssql-jdbc</artifactId>
 			<scope>runtime</scope>
+		</dependency>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.45</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -91,11 +117,14 @@
 			<artifactId>commons-lang3</artifactId>
 			<version>3.7</version>
 		</dependency>
-
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-quartz</artifactId>
+        </dependency>
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>druid</artifactId>
-			<version>1.1.9</version>
+			<version>1.1.10</version>
 		</dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -105,10 +134,15 @@
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 		</dependency>
-
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>fastjson</artifactId>
+			<version>1.2.46</version>
+		</dependency>
 	</dependencies>
 
 	<build>
+
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -129,6 +163,7 @@
 				<artifactId>maven-war-plugin</artifactId>
 				<version>3.0.0</version>
 			</plugin>
+
 		</plugins>
 	</build>
 

@@ -1,0 +1,14 @@
+2018-10-30 12:13:13,299 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 16920 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-10-30 12:13:13,355 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-10-30 12:14:51,298 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 12548 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-10-30 12:14:51,307 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-10-30 12:15:15,169 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 9932 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-10-30 12:15:15,179 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-10-30 12:15:48,949 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 17256 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-10-30 12:15:48,957 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-10-30 12:16:01,132 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 13.5 seconds (JVM running for 15.272)
+2018-10-30 12:16:28,837 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 3572 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-10-30 12:16:28,845 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-10-30 13:21:37,587 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 10540 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-10-30 13:21:37,596 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-10-30 13:21:50,172 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 13.515 seconds (JVM running for 26.417)

@@ -1,0 +1,453 @@
+2018-11-28 10:15:49,390 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 7432 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 10:15:49,425 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 10:16:04,404 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 17.601 seconds (JVM running for 21.768)
+2018-11-28 10:16:05,609 WARN (testaop.java:24)- 进入切点1
+2018-11-28 10:18:55,073 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 2740 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 10:18:55,084 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 10:23:38,005 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 3364 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 10:23:38,013 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 10:23:48,835 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.091 seconds (JVM running for 13.956)
+2018-11-28 10:23:51,075 WARN (testaop.java:24)- 进入切点1
+2018-11-28 10:34:04,354 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 1396 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 10:34:04,363 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 10:34:14,801 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.91 seconds (JVM running for 14.372)
+2018-11-28 10:36:22,750 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 12296 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 10:36:22,789 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 10:36:33,344 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.129 seconds (JVM running for 14.255)
+2018-11-28 10:36:59,459 INFO (WebLogAspect.java:31)- URL:http://localhost:8080/use/second
+2018-11-28 10:36:59,460 INFO (WebLogAspect.java:32)- IP:0:0:0:0:0:0:0:1
+2018-11-28 10:36:59,460 INFO (WebLogAspect.java:33)- HTTP_Method:GET
+2018-11-28 10:36:59,467 INFO (WebLogAspect.java:44)- 最终通知
+2018-11-28 10:36:59,468 INFO (WebLogAspect.java:38)- second controllernull
+2018-11-28 10:37:44,001 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 5892 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 10:37:44,010 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 10:37:59,361 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 16.971 seconds (JVM running for 18.717)
+2018-11-28 10:38:07,435 WARN (testaop.java:24)- 进入切点1
+2018-11-28 10:38:07,449 INFO (WebLogAspect.java:31)- URL:http://localhost:8080/use/second
+2018-11-28 10:38:07,449 INFO (WebLogAspect.java:32)- IP:0:0:0:0:0:0:0:1
+2018-11-28 10:38:07,450 INFO (WebLogAspect.java:33)- HTTP_Method:GET
+2018-11-28 10:38:07,456 INFO (WebLogAspect.java:44)- 最终通知
+2018-11-28 10:38:07,457 INFO (WebLogAspect.java:38)- second controllernull
+2018-11-28 10:38:22,724 WARN (testaop.java:24)- 进入切点1
+2018-11-28 10:38:22,726 INFO (WebLogAspect.java:31)- URL:http://localhost:8080/use/second
+2018-11-28 10:38:22,727 INFO (WebLogAspect.java:32)- IP:0:0:0:0:0:0:0:1
+2018-11-28 10:38:22,728 INFO (WebLogAspect.java:33)- HTTP_Method:GET
+2018-11-28 10:38:22,729 INFO (WebLogAspect.java:44)- 最终通知
+2018-11-28 10:38:22,729 INFO (WebLogAspect.java:38)- second controllernull
+2018-11-28 10:39:32,277 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 8236 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 10:39:32,305 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 10:39:42,465 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.458 seconds (JVM running for 13.146)
+2018-11-28 10:39:49,427 WARN (testaop.java:24)- 进入切点1
+2018-11-28 10:39:49,441 INFO (WebLogAspect.java:31)- URL:http://localhost:8080/use/second
+2018-11-28 10:39:49,442 INFO (WebLogAspect.java:32)- IP:0:0:0:0:0:0:0:1
+2018-11-28 10:39:49,443 INFO (WebLogAspect.java:33)- HTTP_Method:GET
+2018-11-28 10:39:49,452 INFO (WebLogAspect.java:44)- 最终通知
+2018-11-28 10:39:49,453 INFO (WebLogAspect.java:38)- second controllerad
+2018-11-28 11:45:57,761 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 5072 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 11:45:57,818 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 11:46:11,859 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 16.347 seconds (JVM running for 18.501)
+2018-11-28 11:46:38,334 WARN (testaop.java:24)- 进入切点1
+2018-11-28 11:46:38,349 INFO (WebLogAspect.java:31)- URL:http://localhost:8080/use/second
+2018-11-28 11:46:38,350 INFO (WebLogAspect.java:32)- IP:0:0:0:0:0:0:0:1
+2018-11-28 11:46:38,350 INFO (WebLogAspect.java:33)- HTTP_Method:GET
+2018-11-28 11:46:38,359 INFO (WebLogAspect.java:44)- 最终通知
+2018-11-28 11:46:38,360 INFO (WebLogAspect.java:38)- second controllerad
+2018-11-28 12:21:51,389 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 15700 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 12:21:51,431 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 12:22:02,770 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.404 seconds (JVM running for 14.242)
+2018-11-28 12:22:25,752 WARN (testaop.java:24)- 进入切点1
+2018-11-28 12:22:45,021 WARN (testaop.java:24)- 进入切点1
+2018-11-28 12:22:45,047 INFO (WebLogAspect.java:31)- URL:http://localhost:8080/use/second
+2018-11-28 12:22:45,049 INFO (WebLogAspect.java:32)- IP:0:0:0:0:0:0:0:1
+2018-11-28 12:22:45,049 INFO (WebLogAspect.java:33)- HTTP_Method:GET
+2018-11-28 12:22:45,052 INFO (WebLogAspect.java:44)- 最终通知
+2018-11-28 12:22:45,054 INFO (WebLogAspect.java:38)- second controllerad
+2018-11-28 12:28:46,848 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 16228 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 12:28:46,860 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 12:28:57,721 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.118 seconds (JVM running for 13.94)
+2018-11-28 12:29:16,763 WARN (testaop.java:24)- 进入切点1
+2018-11-28 12:29:24,224 WARN (testaop.java:24)- 进入切点1
+2018-11-28 12:29:24,242 INFO (WebLogAspect.java:31)- URL:http://localhost:8080/use/second
+2018-11-28 12:29:24,243 INFO (WebLogAspect.java:32)- IP:0:0:0:0:0:0:0:1
+2018-11-28 12:29:24,243 INFO (WebLogAspect.java:33)- HTTP_Method:GET
+2018-11-28 12:29:24,252 INFO (WebLogAspect.java:44)- 最终通知
+2018-11-28 12:29:24,254 INFO (WebLogAspect.java:38)- second controllerad
+2018-11-28 12:31:01,604 WARN (testaop.java:24)- 进入切点1
+2018-11-28 12:31:01,605 INFO (WebLogAspect.java:31)- URL:http://localhost:8080/use/second
+2018-11-28 12:31:01,606 INFO (WebLogAspect.java:32)- IP:0:0:0:0:0:0:0:1
+2018-11-28 12:31:01,606 INFO (WebLogAspect.java:33)- HTTP_Method:GET
+2018-11-28 12:31:01,607 INFO (WebLogAspect.java:44)- 最终通知
+2018-11-28 12:31:01,607 INFO (WebLogAspect.java:38)- second controllerad
+2018-11-28 14:20:13,067 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 10312 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 14:20:13,089 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 14:20:23,673 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.691 seconds (JVM running for 13.535)
+2018-11-28 14:21:23,913 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:21:23,923 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:21:23,976 ERROR (GlobalExceptionHandler.java:137)- 业务逻辑异常
+java.lang.NullPointerException: null
+	at com.ocean.service.Impl.UserJdbcImps.save(UserJdbcImps.java:14)
+	at com.ocean.controller.SharesController.beantest(SharesController.java:186)
+	at com.ocean.controller.SharesController$$FastClassBySpringCGLIB$$8bcbd45.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:52)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.ocean.controller.SharesController$$EnhancerBySpringCGLIB$$1229fc3e.beantest(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1468)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2018-11-28 14:23:28,212 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 2692 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 14:23:28,221 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 14:23:39,188 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.194 seconds (JVM running for 13.809)
+2018-11-28 14:23:40,268 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:26:00,013 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 13868 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 14:26:00,056 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 14:26:10,587 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.691 seconds (JVM running for 13.309)
+2018-11-28 14:26:11,392 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:26:11,401 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:26:11,408 ERROR (GlobalExceptionHandler.java:137)- 业务逻辑异常
+java.lang.NullPointerException: null
+	at com.ocean.service.Impl.UserJdbcImps.save(UserJdbcImps.java:15)
+	at com.ocean.controller.SharesController.beantest(SharesController.java:186)
+	at com.ocean.controller.SharesController$$FastClassBySpringCGLIB$$8bcbd45.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:52)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.ocean.controller.SharesController$$EnhancerBySpringCGLIB$$fb0eab7d.beantest(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1468)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2018-11-28 14:26:55,171 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 3104 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 14:26:55,181 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 14:27:05,104 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.169 seconds (JVM running for 12.971)
+2018-11-28 14:27:06,890 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:27:06,901 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:27:06,908 ERROR (GlobalExceptionHandler.java:137)- 业务逻辑异常
+java.lang.NullPointerException: null
+	at com.ocean.service.Impl.UserJdbcImps.save(UserJdbcImps.java:16)
+	at com.ocean.controller.SharesController.beantest(SharesController.java:186)
+	at com.ocean.controller.SharesController$$FastClassBySpringCGLIB$$8bcbd45.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:52)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.ocean.controller.SharesController$$EnhancerBySpringCGLIB$$754efa4b.beantest(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1468)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2018-11-28 14:28:17,962 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 1524 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 14:28:17,993 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 14:28:28,172 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.351 seconds (JVM running for 12.828)
+2018-11-28 14:28:28,444 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:29:06,383 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 11448 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 14:29:06,393 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 14:29:16,526 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.292 seconds (JVM running for 12.887)
+2018-11-28 14:29:18,677 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:30:33,325 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 7044 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 14:30:33,334 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 14:30:43,642 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.648 seconds (JVM running for 13.21)
+2018-11-28 14:30:45,284 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:30:45,293 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:30:45,301 ERROR (GlobalExceptionHandler.java:137)- 业务逻辑异常
+java.lang.NullPointerException: null
+	at com.ocean.service.Impl.UserJdbcImps.save(UserJdbcImps.java:19)
+	at com.ocean.controller.SharesController.beantest(SharesController.java:189)
+	at com.ocean.controller.SharesController$$FastClassBySpringCGLIB$$8bcbd45.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:52)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.ocean.controller.SharesController$$EnhancerBySpringCGLIB$$120aaddb.beantest(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1468)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2018-11-28 14:32:30,668 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 936 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 14:32:30,698 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 14:32:41,241 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.711 seconds (JVM running for 13.182)
+2018-11-28 14:32:42,914 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:33:04,141 WARN (testaop.java:24)- 进入切点1
+2018-11-28 14:33:04,162 INFO (WebLogAspect.java:31)- URL:http://localhost:8080/use/second
+2018-11-28 14:33:04,162 INFO (WebLogAspect.java:32)- IP:0:0:0:0:0:0:0:1
+2018-11-28 14:33:04,163 INFO (WebLogAspect.java:33)- HTTP_Method:GET
+2018-11-28 14:33:04,163 INFO (WebLogAspect.java:44)- 最终通知
+2018-11-28 14:33:04,164 INFO (WebLogAspect.java:38)- second controllerad
+2018-11-28 14:54:58,966 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 8404 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 14:54:58,998 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:32:05,093 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 6204 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:32:05,109 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:32:25,181 INFO (StartupInfoLogger.java:59)- Started loadSpring in 22.195 seconds (JVM running for 23.766)
+2018-11-28 17:42:53,252 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 11056 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:42:53,261 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:43:14,298 INFO (StartupInfoLogger.java:59)- Started loadSpring in 22.774 seconds (JVM running for 24.281)
+2018-11-28 17:46:19,271 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 10016 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:46:19,280 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:47:32,566 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 9520 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:47:32,576 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:48:21,550 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 15668 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:48:21,588 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:49:22,183 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 3080 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:49:22,195 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:51:21,044 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 15532 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:51:21,062 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:51:42,150 INFO (StartupInfoLogger.java:59)- Started loadSpring in 22.579 seconds (JVM running for 23.992)
+2018-11-28 17:55:13,594 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 11460 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:55:13,604 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:55:36,444 INFO (StartupInfoLogger.java:59)- Started loadSpring in 24.365 seconds (JVM running for 25.861)
+2018-11-28 17:57:09,144 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 8204 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:57:09,176 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:57:45,424 INFO (StartupInfoLogger.java:50)- Starting loadSpring on DESKTOP-V3E9NMN with PID 9440 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 17:57:45,435 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 17:58:06,480 INFO (StartupInfoLogger.java:59)- Started loadSpring in 22.546 seconds (JVM running for 23.948)
+2018-11-28 18:04:23,774 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 4960 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 18:04:23,787 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 18:04:34,352 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.018 seconds (JVM running for 13.901)
+2018-11-28 18:14:18,605 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 3104 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 18:14:18,618 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 18:14:29,281 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.047 seconds (JVM running for 13.67)
+2018-11-28 18:15:11,820 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 11724 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 18:15:11,830 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 18:17:46,246 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 10884 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 18:17:46,259 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 18:19:01,753 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 2076 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 18:19:01,805 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 18:21:04,316 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 8732 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 18:21:04,378 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 18:22:07,466 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 10740 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 18:22:07,476 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 18:23:28,360 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 14464 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 18:23:28,459 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-28 18:44:08,071 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 5416 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-28 18:44:08,092 INFO (SpringApplication.java:663)- The following profiles are active: 8080

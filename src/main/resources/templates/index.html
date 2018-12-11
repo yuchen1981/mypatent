@@ -3,10 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
 </head>
 <body>
 <form action="/use/second" method="get">
+    <div id="app">
+        {{message}}
+    </div>
+    <input v-model="hsdata" />
     <div>
+        <span th:text="${sessionid}"></span>
         <select name="lname">
             <option th:selected="${d.sharesname=='海越股份'}" th:each="d:${data}" th:value="${d.count}" th:text="${d.sharesname}"></option>
         </select>
@@ -14,6 +21,16 @@
 <button type="submit" th:text="提交"></button>
     </div>
 </form>
+<script type="text/javascript">
+    var app = new Vue({
+        el: '#app',
+        data: {
+            message: 'Hello Vue!'
+        },mounted(){
+            console.log('a is: ')
+        }
+    })
 
+</script>
 </body>
 </html>

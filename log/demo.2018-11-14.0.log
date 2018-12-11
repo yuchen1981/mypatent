@@ -1,0 +1,71 @@
+2018-11-14 12:13:03,365 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 18196 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 12:13:03,410 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 12:14:39,637 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 10036 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 12:14:39,681 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 12:20:04,677 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 15348 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 12:20:04,687 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 12:21:46,044 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 16344 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 12:21:46,080 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 12:22:56,257 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 17612 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 12:22:56,296 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 12:24:23,114 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 17876 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 12:24:23,132 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 12:24:32,871 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 10.935 seconds (JVM running for 12.594)
+2018-11-14 12:39:24,802 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 17664 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 12:39:24,823 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 12:40:46,028 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 14736 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 12:40:46,038 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 12:40:57,089 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.307 seconds (JVM running for 14.051)
+2018-11-14 13:15:23,775 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 14452 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 13:15:23,783 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 13:15:35,164 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.595 seconds (JVM running for 14.363)
+2018-11-14 14:28:08,075 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 16628 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 14:28:08,088 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 14:28:19,310 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.649 seconds (JVM running for 14.377)
+2018-11-14 14:29:49,364 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 6960 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 14:29:49,414 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 14:29:59,244 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.091 seconds (JVM running for 12.564)
+2018-11-14 14:31:01,580 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 15656 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 14:31:01,588 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 14:31:11,168 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 10.94 seconds (JVM running for 13.235)
+2018-11-14 14:33:27,573 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 6248 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 14:33:27,584 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 14:33:38,986 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.669 seconds (JVM running for 14.176)
+2018-11-14 15:12:39,998 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 17504 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:12:40,008 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:12:50,805 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 12.601 seconds (JVM running for 14.406)
+2018-11-14 15:14:33,465 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 9680 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:14:33,474 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:14:42,946 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 10.612 seconds (JVM running for 12.027)
+2018-11-14 15:15:15,383 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 17028 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:15:15,392 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:15:25,324 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.192 seconds (JVM running for 12.89)
+2018-11-14 15:18:21,344 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 14848 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:18:21,355 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:18:31,542 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.348 seconds (JVM running for 12.912)
+2018-11-14 15:19:53,428 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 3828 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:19:53,436 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:20:03,417 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.321 seconds (JVM running for 12.852)
+2018-11-14 15:22:11,150 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 3452 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:22:11,162 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:22:20,637 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 10.664 seconds (JVM running for 12.062)
+2018-11-14 15:23:45,101 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 15532 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:23:45,132 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:23:55,430 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 16068 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:23:55,489 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:24:03,442 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 19.63 seconds (JVM running for 21.435)
+2018-11-14 15:25:36,361 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 3864 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:25:36,370 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:25:46,442 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.226 seconds (JVM running for 12.753)
+2018-11-14 15:26:38,192 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 10228 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 15:26:38,211 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 15:26:47,810 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 10.866 seconds (JVM running for 12.481)
+2018-11-14 16:25:44,473 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 17892 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 16:25:44,486 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 16:25:54,612 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.552 seconds (JVM running for 13.387)
+2018-11-14 16:49:26,218 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 9248 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 16:49:26,230 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 16:49:36,483 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.378 seconds (JVM running for 13.186)
+2018-11-14 16:50:31,381 INFO (StartupInfoLogger.java:50)- Starting MypatentApplication on DESKTOP-V3E9NMN with PID 16568 (G:\newjavawork\mypatent\target\classes started by yuchen in G:\newjavawork\mypatent)
+2018-11-14 16:50:31,393 INFO (SpringApplication.java:663)- The following profiles are active: 8080
+2018-11-14 16:50:41,538 INFO (StartupInfoLogger.java:59)- Started MypatentApplication in 11.448 seconds (JVM running for 13.169)

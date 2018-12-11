@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Route</title>
+</head>
+<body>
+<form action="/use/GetVideoFile" method="get">
+    <ul th:each="lm : ${data}">
+        <li th:each="entry : ${lm}" th:text="${entry.key}"></li>
+        <li th:each="entry : ${lm}" >
+            <span th:each="lists:${#strings.listSplit(entry.value,',')}">
+            <a th:target="_blank" th:text="${lists}" th:href="${entry.key}+'/'+${#strings.trim(lists)}"></a>
+            </span>
+        </li>
+    </ul>
+</form>
+</body>
+</html>
